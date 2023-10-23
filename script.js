@@ -31,7 +31,7 @@ function newItem() {
         listItem.addClass("delete")
     }
 
-$('.list-item').sortable();
+$('#list').sortable();
 
 
 
